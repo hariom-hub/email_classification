@@ -9,4 +9,8 @@ Classifying the email into spams or general messages using machine learning.
   5. Improvement
   6. Website
   7. Deploy*
+
+  *nltk.word_tokenize()* function is used to break the words from a sentence and then forms a list.
+  *nltk.sent_tokenize()* function is used to break the number of words(sentences) from a sentence and then forms a list.
+  
   
